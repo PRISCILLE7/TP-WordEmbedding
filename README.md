@@ -73,4 +73,4 @@ Email : ebwalette@gmail.com
 
 ---
 
-Ce projet est à but pédagogique dans le cadre du module de **traitement du langage naturel**.
+Ce projet est à but pédagogique dans le cadre du module de **Indexation/traitement du langage naturel**.
